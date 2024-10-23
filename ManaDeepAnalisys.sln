@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManaDeepAnalisys", "ManaDeepAnalisys\ManaDeepAnalisys.csproj", "{CE49D2D7-FBBF-44D8-A8A9-FB132140681F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE49D2D7-FBBF-44D8-A8A9-FB132140681F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE49D2D7-FBBF-44D8-A8A9-FB132140681F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE49D2D7-FBBF-44D8-A8A9-FB132140681F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE49D2D7-FBBF-44D8-A8A9-FB132140681F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F765CEB7-3658-4D33-B84C-4EF2E719170A}
+	EndGlobalSection
+EndGlobal

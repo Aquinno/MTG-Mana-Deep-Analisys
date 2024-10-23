@@ -1,0 +1,14 @@
+C:\Users\vinic\source\repos\ManaDeepAnalisys\ManaDeepAnalisys\bin\Debug\net8.0\ManaDeepAnalisys.exe
+C:\Users\vinic\source\repos\ManaDeepAnalisys\ManaDeepAnalisys\bin\Debug\net8.0\ManaDeepAnalisys.deps.json
+C:\Users\vinic\source\repos\ManaDeepAnalisys\ManaDeepAnalisys\bin\Debug\net8.0\ManaDeepAnalisys.runtimeconfig.json
+C:\Users\vinic\source\repos\ManaDeepAnalisys\ManaDeepAnalisys\bin\Debug\net8.0\ManaDeepAnalisys.dll
+C:\Users\vinic\source\repos\ManaDeepAnalisys\ManaDeepAnalisys\bin\Debug\net8.0\ManaDeepAnalisys.pdb
+C:\Users\vinic\source\repos\ManaDeepAnalisys\ManaDeepAnalisys\obj\Debug\net8.0\ManaDeepAnalisys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\source\repos\ManaDeepAnalisys\ManaDeepAnalisys\obj\Debug\net8.0\ManaDeepAnalisys.AssemblyInfoInputs.cache
+C:\Users\vinic\source\repos\ManaDeepAnalisys\ManaDeepAnalisys\obj\Debug\net8.0\ManaDeepAnalisys.AssemblyInfo.cs
+C:\Users\vinic\source\repos\ManaDeepAnalisys\ManaDeepAnalisys\obj\Debug\net8.0\ManaDeepAnalisys.csproj.CoreCompileInputs.cache
+C:\Users\vinic\source\repos\ManaDeepAnalisys\ManaDeepAnalisys\obj\Debug\net8.0\ManaDeepAnalisys.dll
+C:\Users\vinic\source\repos\ManaDeepAnalisys\ManaDeepAnalisys\obj\Debug\net8.0\refint\ManaDeepAnalisys.dll
+C:\Users\vinic\source\repos\ManaDeepAnalisys\ManaDeepAnalisys\obj\Debug\net8.0\ManaDeepAnalisys.pdb
+C:\Users\vinic\source\repos\ManaDeepAnalisys\ManaDeepAnalisys\obj\Debug\net8.0\ManaDeepAnalisys.genruntimeconfig.cache
+C:\Users\vinic\source\repos\ManaDeepAnalisys\ManaDeepAnalisys\obj\Debug\net8.0\ref\ManaDeepAnalisys.dll

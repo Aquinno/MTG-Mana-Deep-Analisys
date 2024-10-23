@@ -1,2 +1,2 @@
 # MTG-Mana-Deep-Analisys
-Check all possibilities of mana generation for two-colored decks of MTG.
+This program analyzes the mana generation possibilities on the battlefield for a two-color deck. It evaluates the available mana sources, considering the types of lands and other mana-generating cards, to calculate the potential mana output during the game. The tool helps optimize the deck's mana curve by identifying strengths and weaknesses in mana generation, ensuring smooth gameplay across different turns. Ideal for players looking to improve consistency in casting spells of both colors in a dual-colored deck.

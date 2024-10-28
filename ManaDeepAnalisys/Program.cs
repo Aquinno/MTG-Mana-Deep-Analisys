@@ -5,7 +5,7 @@ namespace ManaDeepAnalisys {
             Console.WriteLine("          MANA DEEP ANALISYS          ");
             Console.WriteLine("======================================");
             Console.WriteLine("                    - Author: @Aquinno");
-            Console.WriteLine("                    - Version: 1.0.0");
+            Console.WriteLine("                    - Version: 1.1.0");
             Console.WriteLine("======================================");
             Console.Write("Enter the 1º Mana Color: ");
             string color1 = Console.ReadLine();

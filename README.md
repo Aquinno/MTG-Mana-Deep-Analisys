@@ -21,4 +21,4 @@ Lands, Mana Dorks, Mana Rocks etc...
 
 ## ❇️Observations
 
-- This tool doesn't counts the amount of colorless mana (V 1.0.0).
+- This tool doesn't counts the amount of colorless mana (V 1.0.0). [FIXED]

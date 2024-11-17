@@ -5,6 +5,8 @@ It's a good tool when a player have multiple spells to cast at the next turn and
 
 In Magic The Gathering, at the Late Game, color distribution to cast spells ad pay abilities costs is one of the things that you have to analisys for few minutes to take a decision. This tool saves time and patience in moments like this.
 
+Experience this program here: https://dotnetfiddle.net/LepcDY
+
 ## ❇️How to Use
 
 - Insert the name of the two colors your deck has. (2 Inputs; String)
